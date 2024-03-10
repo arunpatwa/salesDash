@@ -1,1 +1,1 @@
-# React Admin Dashboard
+Frontend Part of the react-dashboard
